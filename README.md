@@ -1,5 +1,5 @@
 <!-- filepath: /Users/rudransh/Desktop/Coding/agentic ai/README.md -->
-# multi_agenticAI
+# MultiModelAgenticAI
 
 ## Overview
 `multi_agenticAI.py` uses LLaMA-based models (via Groq) to generate responses and manage agent interactions.
